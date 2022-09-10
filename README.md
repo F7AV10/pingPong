@@ -1,12 +1,7 @@
-
- A simple exercise of a classic pong game made in winForm e C#
-
 # classicPong
-https://github.com/F7AV10
-## Layout do game
 <img src="https://github.com/F7AV10/pingPong/blob/main/pingPongScreen.png" />
 
-# Sobre o projeto
+## Sobre o projeto
 <div>
  Este é um exercicio simples de uma adaptação do classico jogo Pong, feito em winForm e C#<br/>
  
@@ -18,7 +13,7 @@ https://github.com/F7AV10
  - A cada ponto marcado o jogador tem o seu tamanho reduzido<br/>
 </div>
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - C#
 - winForm
@@ -29,7 +24,7 @@ git clone https://github.com/F7AV10/pingPong
 
 ```
 
-# Autor
+## Autor
 Flávio Nascimento Santos Neves
 https://github.com/F7AV10<br/>
 O estudo foi feito apartido do video no canal do youtuber ShaunHalverson, com algumas adaptações feitas por mim.
