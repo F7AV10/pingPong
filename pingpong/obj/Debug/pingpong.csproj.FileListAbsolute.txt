@@ -1,0 +1,10 @@
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\bin\Debug\pingpong.exe.config
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\bin\Debug\pingpong.exe
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\bin\Debug\pingpong.pdb
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\obj\Debug\pingpong.csprojAssemblyReference.cache
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\obj\Debug\pingpong.PONG.resources
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\obj\Debug\pingpong.Properties.Resources.resources
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\obj\Debug\pingpong.csproj.GenerateResource.cache
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\obj\Debug\pingpong.csproj.CoreCompileInputs.cache
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\obj\Debug\pingpong.exe
+D:\PROJETOS_VS\source\repos\pingpong\pingpong\obj\Debug\pingpong.pdb
