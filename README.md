@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 <div>
- Este é um exercicio simples de uma adaptação do classico jogo Pong, feito em winForm e C#<br/>
+ Este é um exercicio simples de uma adaptação do classico jogo Pong, feito em winForms e C#<br/>
  
  Os codigos dentro do form.cs estão comentados para melhor compreensão.
 
