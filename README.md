@@ -16,7 +16,7 @@
 ## Tecnologias utilizadas
 
 - C#
-- winForm
+- winForms
 
 ```bash
 # clonar repositório
